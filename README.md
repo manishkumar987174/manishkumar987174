@@ -1,15 +1,15 @@
-<h1 align="center">Hey 👋 I'm Manish Kumar</h1>
-<h3 align="center">⚡ MERN Stack Developer | Java Enthusiast</h3>
+<h1 align="center">Manish Kumar</h1>
+<h3 align="center">Full Stack Developer  — Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F7FF&width=500&lines=MERN+Stack+Developer;Java+Backend+Developer;DSA+in+Java;Building+Cool+Stuff+on+the+Web;From+Console.log+to+Production+Apps" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="300" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00F7FF&height=3"/>
 
 ## 🧠 About Me  
 - 🚀 Building **full-stack web apps** using MERN  
@@ -17,12 +17,10 @@
 - 🧩 Love solving problems & writing **clean scalable code**  
 - 🎯 Goal: **SDE / Full Stack Engineer at top tech company**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00F7FF&height=3"/>
 
 ## 🛠 Tech Stack  
-
 # 💻 Programming Languages  
-
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -66,26 +64,27 @@
 - Chrome DevTools  
 - MongoDB Compass  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00F7FF&height=3"/>
 
 ## 📈 GitHub Vibes  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar987174&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar987174&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manishkumar987174&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar987174&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manishkumar987174&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkumar987174&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar987174&layout=compact&theme=tokyonight"/>
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00F7FF&height=3"/>
 
 ## 🌍 Let's Connect  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/manish-kumar-8b070021a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -97,13 +96,12 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manishkumar987174&color=blueviolet&style=flat-square"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00F7FF&height=3"/>
 
 <p align="center">
   💬 "I don't just write code, I build systems that solve real problems."  
-</p> 
+</p>
