@@ -55,15 +55,10 @@
 
 ## 🔥 Currently  
 - Practicing **DSA in Java** daily  
-- Building **real-world MERN projects**  
+- Building **real-world  projects**  
 - Preparing for **SDE / Full Stack roles**
 
-## ⚙️ Tools I Use  
-- VS Code  
-- Git & GitHub  
-- Postman  
-- Chrome DevTools  
-- MongoDB Compass  
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00F7FF&height=3"/>
 
