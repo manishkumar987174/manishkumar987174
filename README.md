@@ -80,27 +80,16 @@ I'm a developer who enjoys turning ideas into real, working software.
 
 ---
 
-## 📊 GitHub Activity
+<h2 align="center">⚡ Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkumar987174&theme=github_dark"
+    src="https://github.pumbas.net/api/contributions/manishkumar987174?colour=00F7FF&bgColour=transparent&dotColour=888888"
+    alt="GitHub Contribution Graph"
     width="100%"
   />
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=manishkumar987174&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-  />
-</p>
-
----
 
 ## 🌍 Let's Connect
 
