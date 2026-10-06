@@ -1,12 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420">
-<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00d9ff"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#ff365d"/></linearGradient></defs>
-<rect width="1200" height="420" rx="28" fill="#060912"/>
-<circle cx="210" cy="210" r="145" fill="#111827" stroke="url(#g)" stroke-width="5"/>
-<circle cx="210" cy="175" r="70" fill="#f0ae86"/><path d="M145 165Q155 85 210 82Q275 85 280 165Q245 125 210 125Q175 125 145 165Z" fill="#151923"/>
-<path d="M105 420Q120 260 165 235L210 275L255 235Q300 260 315 420Z" fill="#b5162a"/><path d="M160 250L210 300L260 250" fill="none" stroke="#111" stroke-width="24"/>
-<text x="410" y="145" fill="#fff" font-family="sans-serif" font-size="58" font-weight="800">MANISH KUMAR</text>
-<text x="410" y="205" fill="#00d9ff" font-family="sans-serif" font-size="28">Python • FastAPI • MERN • Web Scraping</text>
-<text x="410" y="265" fill="#cbd5e1" font-family="sans-serif" font-size="22">Backend developer building practical APIs, automation and full-stack systems.</text>
-<path d="M410 315H1080" stroke="url(#g)" stroke-width="4"/>
-<text x="410" y="355" fill="#94a3b8" font-family="sans-serif" font-size="20">BUILD • LEARN • SHIP</text>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop stop-color="#00d9ff"/>
+      <stop offset=".5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#ff365d"/>
+    </linearGradient>
+    <clipPath id="photoClip">
+      <circle cx="210" cy="205" r="150"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="#060912"/>
+
+  <circle cx="210" cy="205" r="153" fill="#111827" stroke="url(#g)" stroke-width="5"/>
+
+  <!-- Manish's photo replaces the avatar -->
+  <image href="./manish-photo.png"
+         x="55" y="45" width="310" height="370"
+         preserveAspectRatio="xMidYMid slice"
+         clip-path="url(#photoClip)"/>
+
+  <circle cx="210" cy="205" r="150" fill="none" stroke="url(#g)" stroke-width="4"/>
+
+  <text x="410" y="145" fill="#fff" font-family="sans-serif" font-size="58" font-weight="800">MANISH KUMAR</text>
+  <text x="410" y="205" fill="#00d9ff" font-family="sans-serif" font-size="28">Python • FastAPI • MERN • Web Scraping</text>
+  <text x="410" y="265" fill="#cbd5e1" font-family="sans-serif" font-size="22">Backend developer building practical APIs, automation and full-stack systems.</text>
+  <path d="M410 315H1080" stroke="url(#g)" stroke-width="4"/>
+  <text x="410" y="355" fill="#94a3b8" font-family="sans-serif" font-size="20">BUILD • LEARN • SHIP</text>
 </svg>
