@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="./id.png" alt="Manish Kumar" width="320"/>
-
-<img src="./hero.png" alt="Manish Kumar — Python, FastAPI, MERN and Web Scraping" width="100%"/>
+<img src="./id.png" alt="Manish" width="420" style="display:block; margin:0;"/>
+<img src="./manish.png" alt="Manish — Python Developer, MERN, Web Scraping" width="100%" style="display:block; margin:0;"/>
 
 ### Python Developer • Backend & APIs • Web Scraping • Full-Stack Development
 
@@ -70,10 +69,6 @@ These technologies are based on the skills and stack listed in my existing GitHu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manishkumar987174&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkumar987174&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkumar987174&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 <img src="./connect.svg" alt="Let's connect" width="100%"/>
