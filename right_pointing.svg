@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650">
+<defs><linearGradient id="s" x1="0" x2="1"><stop stop-color="#c51f35"/><stop offset="1" stop-color="#420812"/></linearGradient></defs>
+<rect width="1000" height="650" rx="36" fill="#080b12"/>
+<circle cx="270" cy="205" r="115" fill="#f0ae86"/>
+<path d="M155 190Q175 60 270 55Q370 60 385 190Q335 135 270 135Q205 135 155 190Z" fill="#151923"/>
+<circle cx="235" cy="210" r="8"/><circle cx="305" cy="210" r="8"/>
+<path d="M235 270Q270 295 305 270" fill="none" stroke="#5b2630" stroke-width="7" stroke-linecap="round"/>
+<path d="M90 650Q105 390 195 355L270 420L345 355Q440 390 455 650Z" fill="url(#s)"/>
+<path d="M190 365L270 445L350 365" fill="none" stroke="#111" stroke-width="40"/>
+<path d="M395 450Q550 390 705 320" fill="none" stroke="#f0ae86" stroke-width="58" stroke-linecap="round"/>
+<path d="M690 320L805 270" stroke="#f0ae86" stroke-width="30" stroke-linecap="round"/>
+<path d="M690 320L805 370" stroke="#f0ae86" stroke-width="30" stroke-linecap="round"/>
+<path d="M805 270L850 255M805 370L850 385" stroke="#f0ae86" stroke-width="18" stroke-linecap="round"/>
+<text x="620" y="565" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="34" font-weight="700">POINTING TO WHAT'S NEXT →</text>
+</svg>

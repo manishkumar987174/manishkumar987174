@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#160713"/></linearGradient>
+<linearGradient id="shirt" x1="0" x2="1"><stop stop-color="#b5162a"/><stop offset="1" stop-color="#3a0710"/></linearGradient></defs>
+<rect width="700" height="700" rx="36" fill="url(#bg)"/>
+<circle cx="350" cy="285" r="150" fill="#f0ae86"/>
+<path d="M190 250Q205 75 350 70Q500 75 515 250Q465 185 350 185Q235 185 190 250Z" fill="#151923"/>
+<circle cx="295" cy="290" r="10"/><circle cx="405" cy="290" r="10"/>
+<path d="M300 365Q350 405 400 365" fill="none" stroke="#5b2630" stroke-width="8" stroke-linecap="round"/>
+<path d="M120 700Q140 480 250 445L350 500L450 445Q560 480 580 700Z" fill="url(#shirt)"/>
+<path d="M250 455L350 545L450 455" fill="none" stroke="#111" stroke-width="55"/>
+<path d="M250 470V700M350 500V700M450 470V700" stroke="#111" stroke-width="34" opacity=".9"/>
+<path d="M100 250Q65 300 100 345" stroke="#00d9ff" stroke-width="10" fill="none"/>
+<path d="M600 250Q635 300 600 345" stroke="#ff365d" stroke-width="10" fill="none"/>
+<text x="350" y="655" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="28" font-weight="700">MANISH KUMAR</text>
+</svg>

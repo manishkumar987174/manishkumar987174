@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430">
+<rect width="1200" height="430" rx="24" fill="#070b14"/>
+<text x="60" y="60" fill="#fff" font-family="sans-serif" font-size="34" font-weight="800">TECH STACK</text>
+<g font-family="sans-serif" font-size="22" font-weight="700">
+<g fill="#111827" stroke="#00d9ff"><rect x="60" y="95" width="170" height="58" rx="14"/><rect x="250" y="95" width="170" height="58" rx="14"/><rect x="440" y="95" width="170" height="58" rx="14"/><rect x="630" y="95" width="170" height="58" rx="14"/><rect x="820" y="95" width="170" height="58" rx="14"/></g>
+<text x="145" y="132" text-anchor="middle" fill="#fff">Python</text><text x="335" y="132" text-anchor="middle" fill="#fff">FastAPI</text><text x="525" y="132" text-anchor="middle" fill="#fff">JavaScript</text><text x="715" y="132" text-anchor="middle" fill="#fff">React</text><text x="905" y="132" text-anchor="middle" fill="#fff">Node.js</text>
+<g fill="#111827" stroke="#ff365d"><rect x="60" y="180" width="170" height="58" rx="14"/><rect x="250" y="180" width="170" height="58" rx="14"/><rect x="440" y="180" width="170" height="58" rx="14"/><rect x="630" y="180" width="170" height="58" rx="14"/><rect x="820" y="180" width="170" height="58" rx="14"/></g>
+<text x="145" y="217" text-anchor="middle" fill="#fff">Express</text><text x="335" y="217" text-anchor="middle" fill="#fff">MongoDB</text><text x="525" y="217" text-anchor="middle" fill="#fff">MySQL</text><text x="715" y="217" text-anchor="middle" fill="#fff">Tailwind</text><text x="905" y="217" text-anchor="middle" fill="#fff">Git/GitHub</text>
+<g fill="#111827" stroke="#7c3aed"><rect x="60" y="265" width="170" height="58" rx="14"/><rect x="250" y="265" width="170" height="58" rx="14"/><rect x="440" y="265" width="170" height="58" rx="14"/><rect x="630" y="265" width="170" height="58" rx="14"/><rect x="820" y="265" width="170" height="58" rx="14"/></g>
+<text x="145" y="302" text-anchor="middle" fill="#fff">Java</text><text x="335" y="302" text-anchor="middle" fill="#fff">C</text><text x="525" y="302" text-anchor="middle" fill="#fff">Postman</text><text x="715" y="302" text-anchor="middle" fill="#fff">REST APIs</text><text x="905" y="302" text-anchor="middle" fill="#fff">JWT</text>
+</g></svg>
