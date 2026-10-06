@@ -2,7 +2,7 @@
 
 <img src="./id.png" alt="Manish Kumar" width="320"/>
 
-<img src="./hero.svg" alt="Manish Kumar — Python, FastAPI, MERN and Web Scraping" width="100%"/>
+<img src="./hero.png" alt="Manish Kumar — Python, FastAPI, MERN and Web Scraping" width="100%"/>
 
 ### Python Developer • Backend & APIs • Web Scraping • Full-Stack Development
 
@@ -32,8 +32,6 @@ I'm Manish Kumar, a developer focused on turning ideas into practical, working s
 - ⚛️ React, Node.js and Express
 - 🧩 DSA and problem solving with Java
 - 🚀 Building and shipping real-world projects
-
-<img src="./right_pointing.svg" alt="Manish pointing right" width="100%"/>
 
 ## 🚀 Featured Projects
 
