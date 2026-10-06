@@ -1,124 +1,79 @@
-<h1 align="center">Hey, I'm Manish 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  Full Stack Developer • Python Developer • Software Developer
-</h3>
+<img src="./hero.svg" alt="Manish Kumar — Python, FastAPI, MERN and Web Scraping" width="100%"/>
+
+### Python Developer • Backend & APIs • Web Scraping • Full-Stack Development
+
+<p>
+  <a href="https://github.com/manishkumar987174"><img src="https://img.shields.io/badge/GitHub-manishkumar987174-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/manish-kumar-8b070021a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.instagram.com/manish_00x"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" /></a>
+</p>
+
+</div>
+
+<img src="./about-life.svg" alt="About and current focus" width="100%"/>
+
+## 👋 About Me
+
+I'm Manish Kumar, a developer focused on turning ideas into practical, working software.
+
+- 🐍 Python, FastAPI and backend development
+- 🕷️ Web scraping and automation
+- ⚡ REST APIs and full-stack applications
+- ⚛️ React, Node.js and Express
+- 🧩 DSA and problem solving with Java
+- 🚀 Building and shipping real-world projects
+
+<img src="./right_pointing.svg" alt="Manish pointing right" width="100%"/>
+
+## 🚀 Featured Projects
+
+| Project | Description | Live |
+|---|---|---|
+| **AI Interview Agent** | AI-powered mock interviews with adaptive conversations, feedback, resume analysis and performance reports. | [Live Demo](https://ai-interview-agent-1-6819.onrender.com/) · [GitHub](https://github.com/manishkumar987174/AI_INTERVIEW_AGENT) |
+| **LMS** | Full-stack Library Management System with Admin/Student roles, JWT authentication, issue/return flows, fines and reports. | [Live Demo](https://lms-manish.netlify.app/) · [GitHub](https://github.com/manishkumar987174/LMS) |
+| **StyleHive** | E-commerce website focused on a clean shopping experience and responsive UI. | [Live Demo](https://stylehive.vercel.app/) · [GitHub](https://github.com/manishkumar987174/StyleHive) |
+
+<img src="./stack.svg" alt="Tech stack" width="100%"/>
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, Java, C  
+**Frontend:** React, HTML5, CSS3, Tailwind CSS  
+**Backend:** FastAPI, Node.js, Express.js, REST APIs  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, Postman  
+**Security/API:** JWT
+
+These technologies are based on the skills and stack listed in my existing GitHub profile README. 
+
+<img src="./id-dashboard.svg" alt="Developer dashboard" width="100%"/>
+
+## 📌 What I'm Working On
+
+- Web scraping & automation
+- Python backend development
+- FastAPI & REST APIs
+- Full-stack web applications
+- DSA & problem solving
+- Real-world software projects
+
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Python+%7C+FastAPI+Developer;Web+Scraping+%26+Automation;Building+Things+That+Actually+Work;From+Console.log()+to+Production" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar987174&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkumar987174&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkumar987174&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
----
+<img src="./connect.svg" alt="Let's connect" width="100%"/>
 
-## 🧠 About Me
+<div align="center">
 
-I'm a developer who enjoys turning ideas into real, working software.
+**Building. Learning. Shipping. 🚀**
 
-- 🚀 Building full-stack web applications
-- 🐍 Working with Python, FastAPI and backend development
-- 🕷️ Writing web scraping and automation scripts
-- ⚡ Building applications with the MERN stack 
----
-
-## 🛠️ Tech Stack & Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Dynamics%20365%20Business%20Central-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-</p>
-
----
-
-## 🔥 Currently Working On
-
-- 🕷️ Web Scraping & Automation
-- 🐍 Python Backend Development
-- ⚡ FastAPI & REST APIs
-- 🌐 Full Stack Web Applications
-- 🧩 DSA & Problem Solving with Java
-- 🚀 Building real-world projects
-
----
-
-## 💻 What I Like Building
-
-<p align="center">
-
-🌐 Web Applications &nbsp; • &nbsp;
-⚡ REST APIs &nbsp; • &nbsp;
-🐍 Python Automation &nbsp; • &nbsp;
-🕷️ Web Scrapers &nbsp; • &nbsp;
-🚀 Backend Systems
-
-</p>
-
----
-
-<h2 align="center">⚡ Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github.pumbas.net/api/contributions/manishkumar987174?colour=00F7FF&bgColour=transparent&dotColour=888888"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
-
-
-## 🌍 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/manish-kumar-8b070021a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:manishkumar987174@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/manish_00x">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manishkumar987174&style=for-the-badge&color=00F7FF" />
-</p>
-
----
-
-<p align="center">
-  <b>Building. Learning. Shipping. 🚀</b>
-</p>
-
-<p align="center">
-  <i>Code is never really finished — there's always something to improve.</i>
-</p>
+</div>
