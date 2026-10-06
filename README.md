@@ -1,13 +1,21 @@
 <div align="center">
+
 <img src="./id.png" alt="Manish Kumar" width="320"/>
+
 <img src="./hero.svg" alt="Manish Kumar — Python, FastAPI, MERN and Web Scraping" width="100%"/>
 
 ### Python Developer • Backend & APIs • Web Scraping • Full-Stack Development
 
 <p>
-  <a href="https://github.com/manishkumar987174"><img src="https://img.shields.io/badge/GitHub-manishkumar987174-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/manish-kumar-8b070021a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/manish_00x"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://github.com/manishkumar987174">
+    <img src="https://img.shields.io/badge/GitHub-manishkumar987174-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/manish-kumar-8b070021a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/manish_00x">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
 </p>
 
 </div>
