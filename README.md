@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="./id.png" alt="Manish Kumar" width="320"/>
 <img src="./hero.svg" alt="Manish Kumar — Python, FastAPI, MERN and Web Scraping" width="100%"/>
 
 ### Python Developer • Backend & APIs • Web Scraping • Full-Stack Development
