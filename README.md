@@ -29,7 +29,6 @@ I'm Manish Kumar, a developer focused on turning ideas into practical, working s
 - 🕷️ Web scraping and automation
 - ⚡ REST APIs and full-stack applications
 - ⚛️ React, Node.js and Express
-- 🧩 DSA and problem solving with Java
 - 🚀 Building and shipping real-world projects
 
 ## 🚀 Featured Projects
@@ -61,7 +60,6 @@ These technologies are based on the skills and stack listed in my existing GitHu
 - Python backend development
 - FastAPI & REST APIs
 - Full-stack web applications
-- DSA & problem solving
 - Real-world software projects
 
 ## 📊 GitHub
